@@ -1,1 +1,1 @@
-<iframe src="//github.com/zell00/goose2/blob/main/playerjs.html=https://github.com/zell00/goose2/blob/main/Пусть%20умрёт.mp4=ссылка_на_постер&title=Название" type="text/html" width=100% height=100% frameborder="0" allowfullscreen></iframe>
+<iframe src="//github.com/zell00/goose2/blob/main/playerjs.html=https://github.com/zell00/goose2/blob/main/Пусть%20умрёт.mp4" type="text/html" width=100% height=100% frameborder="0" allowfullscreen></iframe>
